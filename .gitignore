@@ -1,0 +1,5 @@
+#Xcode
+*.xccheckout
+*.xcuserstate
+project.xcworkspace/
+xcuserdata/
