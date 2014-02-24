@@ -21,9 +21,9 @@
 		21EB94E318B676210085B31F /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 21EB94C218B676210085B31F /* UIKit.framework */; };
 		21EB94EB18B676210085B31F /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 21EB94E918B676210085B31F /* InfoPlist.strings */; };
 		21EB94ED18B676210085B31F /* Affiliate_Linkify_Sample_AppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 21EB94EC18B676210085B31F /* Affiliate_Linkify_Sample_AppTests.m */; };
-		21EB94F818B677520085B31F /* UIApplication+AffiliateLinkify.m in Sources */ = {isa = PBXBuildFile; fileRef = 21EB94F718B677520085B31F /* UIApplication+AffiliateLinkify.m */; };
-		21EB94FB18B678330085B31F /* AffiliateLinkify.m in Sources */ = {isa = PBXBuildFile; fileRef = 21EB94FA18B678330085B31F /* AffiliateLinkify.m */; };
-		B954DC5718B6805900F8EC41 /* NSString+Additions.m in Sources */ = {isa = PBXBuildFile; fileRef = B954DC5618B6805900F8EC41 /* NSString+Additions.m */; };
+		B931314A18BBB55700B9B65F /* AffiliateLinkify.m in Sources */ = {isa = PBXBuildFile; fileRef = B931314518BBB55700B9B65F /* AffiliateLinkify.m */; };
+		B931314B18BBB55700B9B65F /* NSString+Additions.m in Sources */ = {isa = PBXBuildFile; fileRef = B931314718BBB55700B9B65F /* NSString+Additions.m */; };
+		B931314C18BBB55700B9B65F /* UIApplication+AffiliateLinkify.m in Sources */ = {isa = PBXBuildFile; fileRef = B931314918BBB55700B9B65F /* UIApplication+AffiliateLinkify.m */; };
 		B954DC5918B68B0200F8EC41 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B954DC5818B68B0100F8EC41 /* StoreKit.framework */; };
 /* End PBXBuildFile section */
 
@@ -57,12 +57,12 @@
 		21EB94E818B676210085B31F /* Affiliate Linkify Sample AppTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Affiliate Linkify Sample AppTests-Info.plist"; sourceTree = "<group>"; };
 		21EB94EA18B676210085B31F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		21EB94EC18B676210085B31F /* Affiliate_Linkify_Sample_AppTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Affiliate_Linkify_Sample_AppTests.m; sourceTree = "<group>"; };
-		21EB94F618B677520085B31F /* UIApplication+AffiliateLinkify.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIApplication+AffiliateLinkify.h"; sourceTree = "<group>"; };
-		21EB94F718B677520085B31F /* UIApplication+AffiliateLinkify.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIApplication+AffiliateLinkify.m"; sourceTree = "<group>"; };
-		21EB94F918B678330085B31F /* AffiliateLinkify.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AffiliateLinkify.h; sourceTree = "<group>"; };
-		21EB94FA18B678330085B31F /* AffiliateLinkify.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AffiliateLinkify.m; sourceTree = "<group>"; };
-		B954DC5518B6805900F8EC41 /* NSString+Additions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+Additions.h"; sourceTree = "<group>"; };
-		B954DC5618B6805900F8EC41 /* NSString+Additions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+Additions.m"; sourceTree = "<group>"; };
+		B931314418BBB55700B9B65F /* AffiliateLinkify.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AffiliateLinkify.h; sourceTree = "<group>"; };
+		B931314518BBB55700B9B65F /* AffiliateLinkify.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AffiliateLinkify.m; sourceTree = "<group>"; };
+		B931314618BBB55700B9B65F /* NSString+Additions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+Additions.h"; sourceTree = "<group>"; };
+		B931314718BBB55700B9B65F /* NSString+Additions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+Additions.m"; sourceTree = "<group>"; };
+		B931314818BBB55700B9B65F /* UIApplication+AffiliateLinkify.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIApplication+AffiliateLinkify.h"; sourceTree = "<group>"; };
+		B931314918BBB55700B9B65F /* UIApplication+AffiliateLinkify.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIApplication+AffiliateLinkify.m"; sourceTree = "<group>"; };
 		B954DC5818B68B0100F8EC41 /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
 		B9B526B318BBA6570051C537 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
 /* End PBXFileReference section */
@@ -127,7 +127,7 @@
 		21EB94C418B676210085B31F /* Affiliate Linkify Sample App */ = {
 			isa = PBXGroup;
 			children = (
-				B954DC5A18B6926600F8EC41 /* Classes */,
+				B931314318BBB55700B9B65F /* AffiliateLinkify */,
 				21EB94CD18B676210085B31F /* AppDelegate.h */,
 				21EB94CE18B676210085B31F /* AppDelegate.m */,
 				21EB94D018B676210085B31F /* Main_iPhone.storyboard */,
@@ -168,17 +168,17 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		B954DC5A18B6926600F8EC41 /* Classes */ = {
+		B931314318BBB55700B9B65F /* AffiliateLinkify */ = {
 			isa = PBXGroup;
 			children = (
-				21EB94F918B678330085B31F /* AffiliateLinkify.h */,
-				21EB94FA18B678330085B31F /* AffiliateLinkify.m */,
-				21EB94F618B677520085B31F /* UIApplication+AffiliateLinkify.h */,
-				21EB94F718B677520085B31F /* UIApplication+AffiliateLinkify.m */,
-				B954DC5518B6805900F8EC41 /* NSString+Additions.h */,
-				B954DC5618B6805900F8EC41 /* NSString+Additions.m */,
+				B931314418BBB55700B9B65F /* AffiliateLinkify.h */,
+				B931314518BBB55700B9B65F /* AffiliateLinkify.m */,
+				B931314618BBB55700B9B65F /* NSString+Additions.h */,
+				B931314718BBB55700B9B65F /* NSString+Additions.m */,
+				B931314818BBB55700B9B65F /* UIApplication+AffiliateLinkify.h */,
+				B931314918BBB55700B9B65F /* UIApplication+AffiliateLinkify.m */,
 			);
-			name = Classes;
+			path = AffiliateLinkify;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -278,12 +278,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B931314C18BBB55700B9B65F /* UIApplication+AffiliateLinkify.m in Sources */,
+				B931314A18BBB55700B9B65F /* AffiliateLinkify.m in Sources */,
 				21EB94D818B676210085B31F /* ViewController.m in Sources */,
-				21EB94FB18B678330085B31F /* AffiliateLinkify.m in Sources */,
 				21EB94CF18B676210085B31F /* AppDelegate.m in Sources */,
-				21EB94F818B677520085B31F /* UIApplication+AffiliateLinkify.m in Sources */,
+				B931314B18BBB55700B9B65F /* NSString+Additions.m in Sources */,
 				21EB94CB18B676210085B31F /* main.m in Sources */,
-				B954DC5718B6805900F8EC41 /* NSString+Additions.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
